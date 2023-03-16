@@ -89,8 +89,8 @@ def calculate_predictions(request):
                 with open('realtime_data_plot.png', 'rb') as f:
                     context['realtime_data_plot'] = f.read()
                     context['form'] = form
-        return render(request, '"J:\My Drive\Destiny\site\destiny\evs_project\index.html"', context)
+        return render(request, 'https://github.com/abhishekvadve/evs_project/blob/48d5b930dcdcdb980ee7bf5aea704c0b376ed67c/index.html', context)
     else:
         form = PredictionsForm()
         context = {'form': form}
-        return render(request, '"J:\My Drive\Destiny\site\destiny\evs_project\index.html"', context)
+        return render(request, 'https://github.com/abhishekvadve/evs_project/blob/48d5b930dcdcdb980ee7bf5aea704c0b376ed67c/index.html', context)
