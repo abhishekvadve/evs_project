@@ -89,8 +89,8 @@ def calculate_predictions(request):
                 with open('realtime_data_plot.png', 'rb') as f:
                     context['realtime_data_plot'] = f.read()
                     context['form'] = form
-        return render(request, 'predictions.html', context)
+        return render(request, 'index.html', context)
     else:
         form = PredictionsForm()
         context = {'form': form}
-        return render(request, 'predictions.html', context)
+        return render(request, 'index.html', context)
