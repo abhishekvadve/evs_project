@@ -16,9 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from predictions import views
-from predictions.views import calculate_predictions
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', views.calculate_predictions, name='home'),
+    path('', views.calculate_predictions, name='index'),
 ]
