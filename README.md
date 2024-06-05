@@ -2,28 +2,6 @@
 
 Welcome to the EVS Project repository! This project is a comprehensive solution designed to provide insights and tools for managing and evaluating environmental sustainability. The repository includes various scripts, datasets, and documentation that facilitate the analysis of environmental data.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-The EVS (Environmental Sustainability) Project aims to provide a robust framework for analyzing environmental data. This project is particularly useful for researchers, data scientists, and policy makers who seek to understand environmental trends and make data-driven decisions.
-
-## Features
-
-- **Data Collection**: Scripts for collecting environmental data from various sources.
-- **Data Analysis**: Tools for analyzing and visualizing environmental data.
-- **Reporting**: Automated generation of reports based on the analyzed data.
-- **Scalability**: Designed to handle large datasets efficiently.
-- **Extensibility**: Easily extendable to include additional data sources and analysis methods.
 
 ## Installation
 
@@ -74,22 +52,6 @@ The EVS (Environmental Sustainability) Project aims to provide a robust framewor
 
 Configuration settings can be found in the `config` directory. Adjust the configuration files as per your requirements before running the scripts.
 
-## Project Structure
-
-```plaintext
-evs_project/
-├── data/                  # Directory to store collected data
-├── scripts/               # Directory containing all scripts
-│   ├── data_collection.py
-│   ├── data_analysis.py
-│   └── generate_report.py
-├── config/                # Directory containing configuration files
-├── reports/               # Directory to store generated reports
-├── requirements.txt       # List of required Python packages
-├── README.md              # Project documentation
-└── LICENSE                # License information
-```
-
 ## Contributing
 
 We welcome contributions to the EVS Project! If you would like to contribute, please follow these steps:
@@ -110,7 +72,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact:
 
 Abhishek Vadve  
-Email: [abhishekvadve@example.com](mailto:abhishekvadve@example.com)  
+Email: [abhishekvadve4975@gmail.com](mailto:abhishekvadve4975@gmail.com.com)  
 GitHub: [abhishekvadve](https://github.com/abhishekvadve)
 
 Thank you for using the EVS Project! We hope it serves as a valuable tool in your environmental sustainability efforts.
