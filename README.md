@@ -1,4 +1,4 @@
-# Enviroment Prediction WebApp 
+# Environment Prediction WebApp 
 
 Welcome to the EVS Project repository! This project is a comprehensive solution designed to provide insights and tools for managing and evaluating environmental sustainability. The repository includes various scripts, datasets, and documentation that facilitate the analysis of environmental data.
 
